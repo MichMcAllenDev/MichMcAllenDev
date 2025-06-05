@@ -2,6 +2,16 @@
 
 I am a Full-Stack Developer with 7 years of experience in Python and Rust, and 5 years in Blockchain/Web3 development, making me a strong fit for blockchain roles. With expertise in Rust and Solidity, I specialize in smart contract development for Ethereum, Cosmos, Polkadot, Solana, Terra, Binance Smart Chain, Polygon, and Fantom. I have extensive experience building DApps using Ether.js, CosmJS, Terra.js, and Web3.js, along with a solid background in backend and application development with Rust and Python frameworks like Django and Flask.
 
+- My work focuses on removing barriers to technology participation, creating structured pathways for neurodiverse individuals, and building inclusive communities that celebrate diverse perspectives in open source.
+
+
+- My current roles include:
+
+  ⪧ D&I Member for Oceania – Python Software Foundation
+
+  ⪧ Director & Event Organiser – DDD Perth
+  
+  ⪧ Primary Software Engineer – NLB Software
 
 
 
